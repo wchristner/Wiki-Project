@@ -4,7 +4,7 @@ This repository includes a **GitHub Wiki** that serves as structured documentati
 The wiki is written in **Markdown** and is designed to be easy to navigate, edit, and extend.
 
 ---
-URL: 
+URL: https://wchristner.github.io/Wiki-Project/
 ---
 
 ##  Accessing the Wiki
